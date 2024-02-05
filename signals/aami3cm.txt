@@ -1,0 +1,13 @@
+ANSI/AAMI EC13:2002
+
+5.1.2 Operator manual
+5.1.2.1 Disclosure of performance specifications
+
+e) Heart rate meter accuracy and response to irregular rhythm. A 20 s interval between tests is acceptable
+to allow the monitor to stabilize. The test waveforms of Figure 3 are available in MIT format. In those files,
+for Figures 3a–3c, 60 s records are provided, and for Figure 3d, a 48 s record is provided.
+
+1) Apply the test waveform of Figure 3a to the input of the monitor.
+2) The indicated heart rate shall agree with the manufacturer’s disclosed value.
+3) Repeat steps (a) and (b) for the waveforms shown in Figures 3b, 3c, and 3d.
+NOTE—Gain or sensitivity controls may be adjusted for each waveform.

@@ -1,0 +1,21 @@
+Signal EC13_30: 
+ECG with a QRS amplitude of 0.5 and width of 100 ms and 4
+mV p-p triangle wave with a frequency of 0.1 Hz.
+
+For information on obtaining the most recent version E.P. Limited’s Open Source ECG Analysis
+Software, visit or web site (http://www.eplimited.com/).
+
+ANSI/AAMI EC13:2002
+4.2.6.3 Drift tolerance
+The cardiac monitor shall indicate the heart rate within the error limits of 4.2.7 when a 0.1 Hz triangular wave of
+4 mV p-v amplitude is superimposed on a train of QRS signals of 0.5 mV amplitude, 100 ms duration, and 80 bpm
+repetition rate.
+
+4.2.7 Range and accuracy of heart rate meter
+The minimum allowable heart rate meter range shall be 30 bpm to 200 bpm, with an allowable readout error of no
+greater than ±10 percent of the input rate or ±5 bpm, whichever is greater. Cardiac monitors labeled for use with
+neonatal/pediatric patients shall have an extended heart rate range of at least 250 bpm. In addition, input ECG
+signals at rates less than the disclosed lower limit of the rate meter range shall not cause the meter to indicate a rate
+greater than this lower limit. Input signals at rates above the disclosed upper limit of the rate meter range, up to
+300 bpm (350 bpm for monitors labeled for use with neonatal/pediatric patients), shall not cause the meter to
+indicate a rate lower than this upper limit.

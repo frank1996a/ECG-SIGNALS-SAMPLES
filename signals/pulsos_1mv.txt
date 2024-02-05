@@ -1,0 +1,6 @@
+Señal de calibración:
+
+Durante la simulación de esta señal conecte un voltímetro en la escala de mili-Volts en la derivación I, 
+observará como el voltaje en la derivación oscila entre un valor alto y uno en bajo cada 2 segundos, 
+ajuste el preset dentro de la interfaz para que la diferencia de voltaje entre el estado alto y el bajo sea de 1mV. 
+

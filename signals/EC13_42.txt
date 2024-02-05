@@ -1,0 +1,25 @@
+Signal EC13_42: 
+ECG with QRS amplitude of 1 mV, QRS width of 100 ms,
+and a T-wave that increases from 0.2 to 1.2 mV in amplitude.
+
+For information on obtaining the most recent version E.P. Limited’s Open Source ECG Analysis
+Software, visit or web site (http://www.eplimited.com/).
+
+ANSI/AAMI EC13:2002
+
+5.1.2 Operator manual
+5.1.2.1 Disclosure of performance specifications
+
+c) Tall T-wave rejection capability. A 20 s interval between tests is acceptable to allow the monitor under
+test to stabilize. Tests must be performed with the monitor at the nominal gain setting of 10 mm/mV for
+devices with permanent displays. If the device does not provide a permanent display, the gain setting must
+be specified at the time of test.
+
+1) Apply the test waveform of Figure 2a to the input of the monitor, with the parameters specified in
+4.1.2.1(c) and 4.2.6.1 (1 mV QRS, 100 ms QRS duration, 80 bpm).
+2) Record the indicated heart rate when the amplitude of the T-wave (a T ) is zero.
+3) Increase a T in steps of 0.2 mV, at the rate of one step per minute, up to 1.2 mV, until either the
+indicated heart rate exceeds the allowed ±10 percent tolerance or erratic heart rate indication is
+obtained. The highest value of a T for which the heart rate meter indicates 80 ± 8 bpm shall be no less
+than the value of a T disclosed by the manufacturer. If the manufacturer indicates that performance is
+affected by monitoring versus extended low-frequency bandwidth choice, check at both bandwidths.

@@ -1,0 +1,13 @@
+Signal EC13_29: 
+Simulated ECG with QRS amplitude of 0.5 mV, QRS width of
+100 ms, rate of 80 bpm, and 60 Hz noise with a p-p of 400 uV.
+
+For information on obtaining the most recent version E.P. Limited’s Open Source ECG Analysis
+Software, visit or web site (http://www.eplimited.com/).
+
+ANSI/AAMI EC13:2002
+4.2.6.2 Line frequency voltage tolerance
+The maximum line frequency peak-to-valley sinusoidal voltage amplitude that can be superimposed on a train of
+QRS signals without exceeding the error limits specified in 4.2.7 for indicated heart rate accuracy shall be no less
+than 100 μV p-v. The QRS signal shall have an amplitude of 0.5 mV, a duration of 100 ms, and a repetition rate of
+80 bpm. If equipment is fitted with a line frequency filter, the filter may be turned on during this test.

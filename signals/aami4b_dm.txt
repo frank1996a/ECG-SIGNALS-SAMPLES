@@ -1,0 +1,31 @@
+ANSI/AAMI EC13:2002
+
+5.1.2 Operator manual
+5.1.2.1 Disclosure of performance specifications
+
+g) Time to alarm for tachycardia. The test waveforms of Figure 4 are available from AAMI. In those files, the
+following signals are included:
+
+For Figure 4a, 30 seconds of 80 BPM triangular QRS pulses are followed by 60 seconds of Figure 4a’s
+VTACH at 1X gain;
+(then) 30 seconds of 80 bpm triangular QRS pulses are followed by 60 seconds of Figure 4a’s VTACH at
+.5X gain; and
+(then) 30 seconds of 80 bpm triangular QRS pulses are followed by 60 seconds of Figure 4a’s VTACH at
+2X gain.
+For Figure 4b, 30 seconds of 80 bpm triangular QRS pulses are followed by 60 seconds of Figure 4b’s
+VTACH at 1X gain;
+(then) 30 seconds of 80 bpm triangular QRS pulses are followed by 60 seconds of Figure 4b’s VTACH at
+.5X gain; and
+(then) 30 seconds of 80 bpm triangular QRS pulses are followed by 60 seconds of Figure 4b’s VTACH at
+2X gain.
+
+1) Apply the test waveform of 4.2.6.1 and Figure 6 to the monitor input, with the QRS amplitude set at
+1.0 mV and the duration at 100 ms.
+2) Set the rate at 80 bpm, the upper alarm limit closest to 100 bpm, and the lower alarm limit closest to
+60 bpm.
+3) Suddenly change the input signal to the waveform of Figure 4a.
+4) Measure the time interval until the alarm is activated.
+5) The time interval shall not exceed the manufacturer’s disclosed value.
+6) Repeat steps 1 through 5 with the amplitude of the waveform in Figure 4a halved and doubled.
+7) Repeat steps 1 through 6 for the waveform of Figure 4b.
+NOTE—Each test shall be repeated five times and the results disclosed as the average and range for the five trials.
