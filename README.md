@@ -28,3 +28,4 @@ ylabel('Amplitud');
 % Opcional: Guardar la señal muestreada en un archivo
 % save('ecg_muestreada.mat', 'ecg_muestreada', 'nueva_fs');a
 ![image](https://github.com/frank1996a/ECG-SIGNALS-SAMPLES/assets/119448736/e20b772c-db04-4177-a386-3e1ee1f7fd50)
+![image](https://github.com/frank1996a/ECG-SIGNALS-SAMPLES/assets/119448736/b4b540ca-bfe4-48c3-a61d-fb140e6140a5)
