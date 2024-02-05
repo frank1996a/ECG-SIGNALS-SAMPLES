@@ -1,0 +1,28 @@
+% Parámetros de la señal ECG sintética
+fs = 1000;  % Frecuencia de muestreo en Hz
+t = 0:1/fs:5;  % Vector de tiempo de 0 a 5 segundos con incrementos de 1/fs
+
+% Generar señal ECG sintética utilizando la función ecg
+ecg_signal = ecg(t);
+
+% Muestrear la señal a una nueva frecuencia de muestreo
+nueva_fs = 250;  % Nueva frecuencia de muestreo en Hz
+ecg_muestreada = downsample(ecg_signal, fs/nueva_fs);
+
+% Graficar la señal original y la señal muestreada
+figure;
+subplot(2,1,1);
+plot(t, ecg_signal);
+title('Señal ECG Original');
+xlabel('Tiempo (s)');
+ylabel('Amplitud');
+
+subplot(2,1,2);
+t_muestreo = 0:1/nueva_fs:5;  % Vector de tiempo para la señal muestreada
+plot(t_muestreo, ecg_muestreada);
+title('Señal ECG Muestreada');
+xlabel('Tiempo (s)');
+ylabel('Amplitud');
+
+% Opcional: Guardar la señal muestreada en un archivo
+% save('ecg_muestreada.mat', 'ecg_muestreada', 'nueva_fs');
