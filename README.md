@@ -26,4 +26,4 @@ xlabel('Tiempo (s)');
 ylabel('Amplitud');
 
 % Opcional: Guardar la señal muestreada en un archivo
-% save('ecg_muestreada.mat', 'ecg_muestreada', 'nueva_fs');
+% save('ecg_muestreada.mat', 'ecg_muestreada', 'nueva_fs');a
